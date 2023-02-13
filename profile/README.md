@@ -1,6 +1,6 @@
 ## Hey There 👋
+![RIGNEG_retro_game_world_8bit_f344e8c2-384e-4b4a-8bdc-9497dfd3b431](https://user-images.githubusercontent.com/124601203/218387997-934ed4f9-0df2-4b26-af09-ed9f95c876ee.png)
 
-![Banner](https://user-images.githubusercontent.com/124601203/218381643-933c256f-c960-4464-acc7-7d4f899b0191.png)
 ### 📋 About Our Project
 Retro Realm is a nostalgic journey through the history of gaming, reimagining classic games with modern technology. Our project seeks to preserve the timeless gameplay, unforgettable experiences, and memorable moments of the classic games we all know and love.
 
