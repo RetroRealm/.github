@@ -17,6 +17,9 @@ And Many More!
 Whether you're a fan of classic arcade games, platformers, or puzzle games, Retro Realm has something for everyone. Our library of games is constantly growing, allowing players to relive their childhood memories or discover classic games for the first time.
 
 ### ✨ Join Us
+We're always looking for passionate game developers to join our team and help us bring these classic games back to life. If you're interested in joining the Retro Realm project, please don't hesitate to reach out!
+
+Contact - zayedalmalick@gmail.com
+
+### 🙌 Conclusion
 If you're looking for a blast from the past, join us on this journey through gaming history with Retro Realm. Experience the magic of classic gaming all over again!
-
-
