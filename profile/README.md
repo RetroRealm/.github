@@ -23,3 +23,6 @@ Contact - zayedalmalick@gmail.com
 
 ### 🙌 Conclusion
 If you're looking for a blast from the past, join us on this journey through gaming history with Retro Realm. Experience the magic of classic gaming all over again!
+
+## Note
+This Project is on Hold until 18/03/2023 due to Exams.
